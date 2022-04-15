@@ -1,4 +1,4 @@
-# To visit the website click
+# Click to visit.
 
 https://subash-timilsina.github.io/
 
